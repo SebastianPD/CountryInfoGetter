@@ -1,4 +1,4 @@
-# AndroidAppDemo
+# CountryInfoGetter
 
 <strong> Description </strong></p>
 An app I made as a technical challenge for a company. It has my resume, and then you can select a list of countries which will pull information of that country from a website link.
